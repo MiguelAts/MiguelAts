@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MiguelAt
+- 👋 Hi, I’m Miguel
 - 👀 I’m interested in developing, computing and games
-- 🌱 I’m currently learning python and incresing javascript knowledg
-- 💞️ I’m looking for my first job, trainee, internship
+- 🌱 I’m currently learning python and incresing java knowledge
+- 💞️ I’m looking for my first job, trainee or internship
 - 📫 My email: migu3lsants@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I had a technic hight school, where I focus on computing. Now I'm in college doing Systems Analysis and Development in the second period
